@@ -2,8 +2,18 @@ import React from 'react';
 
 export default function Blog() {
   return (
-    <div>
+    <div className="container m-2">
       <h1>Resume</h1>
+      <h2>Education</h2>
+        <h4>Bachelor's Degree, Ohio State University 2018</h4>
+        <ul>
+          <li>Major: New Media & Communication Technology</li>
+          <li>Minor: Spanish Language</li>
+        </ul>
+        <h4>Web Development Bootcamp 2022</h4>
+        <ul>
+          <li>Graduate of Ohio State University's full stack development bootcamp</li>
+        </ul>
       <h2>Employement History</h2>
         <h4>Poseidon Pools February 2022-Current</h4>
           <ul>
@@ -21,7 +31,6 @@ export default function Blog() {
             <li>Assistant in photo/video shooting, editing, and production</li>
             <li>Web content curation and sourcing images for shopify website builder</li>
           </ul>
-      <h2>Education</h2>
     </div>
   );
 }
