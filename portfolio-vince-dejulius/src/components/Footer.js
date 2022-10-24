@@ -3,8 +3,10 @@ import { MDBBtn, MDBIcon } from 'mdb-react-ui-kit';
 
 export default function Footer(){
   return (
-    <div>
+    <div className="d-flex justify-content-center align-center">
       
+
+
       <MDBBtn className='m-1' style={{ backgroundColor: '#333333' }} href='https://github.com/dejuliusvince/Portfolio_Vince_DeJulius'>
         <MDBIcon fab icon='github' /> GitHub
       </MDBBtn>
