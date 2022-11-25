@@ -70,7 +70,7 @@ export default function App() {
         <MDBCardBody>
           <MDBCardTitle>Quick Code Quiz</MDBCardTitle>
           <MDBCardText>
-            This is a quick and easy coding quiz to demonstrate my ability with vanilla Javascript.
+            This is a quick and easy coding quiz to demonstrating basic ability with vanilla Javascript.
             The user is taken through a series of easy questions about coding and their score is tracked as they answer questions right or wrong.
           </MDBCardText>
           <MDBBtn className="m-2" href='https://github.com/dejuliusvince/Coding_Quiz'>GitHub Repo</MDBBtn>
