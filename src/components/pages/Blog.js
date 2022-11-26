@@ -25,6 +25,13 @@ export default function Blog() {
       </ul>
       <h2>Freelance Experience (Multimedia, 2018-Current)</h2>
 
+      <h4>DoorDash, Columbus, OH (Office COL-2)</h4>
+      <h6>Graphic Designer; Clothing</h6>
+      <ul>
+        <li>Delivery of official t-shirt design for the highest-performing DoorDash office in Ohio</li>
+        <li>Collaboration with office management through multiple edits to meet specifications</li>
+      </ul>
+
       <h4>ARBO Products, Penninsula, OH</h4>
       <h6>Graphic Design Consultant; Video Producer & Editor</h6>
       <ul>
