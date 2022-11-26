@@ -1,19 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio-vince-dejulius/static/css/main.c59cc657.css",
-    "main.js": "/portfolio-vince-dejulius/static/js/main.1391be75.js",
-    "static/media/Project2_Screenshot.png": "/portfolio-vince-dejulius/static/media/Project2_Screenshot.322afb958d48bf14f5a2.png",
-    "static/media/weather_dashboard_screenshot.png": "/portfolio-vince-dejulius/static/media/weather_dashboard_screenshot.9af4dbe7985e6e0f63d6.png",
-    "static/media/workday_planner_screenshot.png": "/portfolio-vince-dejulius/static/media/workday_planner_screenshot.68b82cb162bae8160aed.png",
-    "static/media/password_generator_screenshot.png": "/portfolio-vince-dejulius/static/media/password_generator_screenshot.83709e18626bf6ad8746.png",
-    "static/media/quiz_screenshot_2.png": "/portfolio-vince-dejulius/static/media/quiz_screenshot_2.13fde3b4848f0373cebe.png",
-    "static/media/BC_UI.png": "/portfolio-vince-dejulius/static/media/BC_UI.40ae7e844898e5d51c98.png",
-    "index.html": "/portfolio-vince-dejulius/index.html",
-    "main.c59cc657.css.map": "/portfolio-vince-dejulius/static/css/main.c59cc657.css.map",
-    "main.1391be75.js.map": "/portfolio-vince-dejulius/static/js/main.1391be75.js.map"
+    "main.css": "/Portfolio_Vince_DeJulius/static/css/main.c59cc657.css",
+    "main.js": "/Portfolio_Vince_DeJulius/static/js/main.7959897d.js",
+    "static/media/ThankingStaff_Updated.jpg": "/Portfolio_Vince_DeJulius/static/media/ThankingStaff_Updated.ac7a5e9445aaa44b4434.jpg",
+    "static/media/Project2_Screenshot.png": "/Portfolio_Vince_DeJulius/static/media/Project2_Screenshot.322afb958d48bf14f5a2.png",
+    "static/media/weather_dashboard_screenshot.png": "/Portfolio_Vince_DeJulius/static/media/weather_dashboard_screenshot.9af4dbe7985e6e0f63d6.png",
+    "static/media/conferencelogo1.jpg": "/Portfolio_Vince_DeJulius/static/media/conferencelogo1.d06ccb02de099b513999.jpg",
+    "static/media/DOORDASH_Mockups_3b.png": "/Portfolio_Vince_DeJulius/static/media/DOORDASH_Mockups_3b.3a482971805496e05428.png",
+    "static/media/conferencelogo3.jpg": "/Portfolio_Vince_DeJulius/static/media/conferencelogo3.7a76b6996849c34af930.jpg",
+    "static/media/CCGHD_Logo4.jpg": "/Portfolio_Vince_DeJulius/static/media/CCGHD_Logo4.16ea195c4fb4e9f0dbf6.jpg",
+    "static/media/DOORDASH_Mockups_Edit1.png": "/Portfolio_Vince_DeJulius/static/media/DOORDASH_Mockups_Edit1.e8e0634249cd44af8b4a.png",
+    "static/media/workday_planner_screenshot.png": "/Portfolio_Vince_DeJulius/static/media/workday_planner_screenshot.68b82cb162bae8160aed.png",
+    "static/media/AudioBay_Logo.jpg": "/Portfolio_Vince_DeJulius/static/media/AudioBay_Logo.9ca57992a5835560fe07.jpg",
+    "static/media/password_generator_screenshot.png": "/Portfolio_Vince_DeJulius/static/media/password_generator_screenshot.83709e18626bf6ad8746.png",
+    "static/media/quiz_screenshot_2.png": "/Portfolio_Vince_DeJulius/static/media/quiz_screenshot_2.13fde3b4848f0373cebe.png",
+    "static/media/BC_UI.png": "/Portfolio_Vince_DeJulius/static/media/BC_UI.40ae7e844898e5d51c98.png",
+    "index.html": "/Portfolio_Vince_DeJulius/index.html",
+    "main.c59cc657.css.map": "/Portfolio_Vince_DeJulius/static/css/main.c59cc657.css.map",
+    "main.7959897d.js.map": "/Portfolio_Vince_DeJulius/static/js/main.7959897d.js.map"
   },
   "entrypoints": [
     "static/css/main.c59cc657.css",
-    "static/js/main.1391be75.js"
+    "static/js/main.7959897d.js"
   ]
 }
