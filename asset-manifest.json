@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_Vince_DeJulius/static/css/main.c59cc657.css",
-    "main.js": "/Portfolio_Vince_DeJulius/static/js/main.7959897d.js",
+    "main.js": "/Portfolio_Vince_DeJulius/static/js/main.7e2f2a52.js",
     "static/media/ThankingStaff_Updated.jpg": "/Portfolio_Vince_DeJulius/static/media/ThankingStaff_Updated.ac7a5e9445aaa44b4434.jpg",
     "static/media/Project2_Screenshot.png": "/Portfolio_Vince_DeJulius/static/media/Project2_Screenshot.322afb958d48bf14f5a2.png",
     "static/media/weather_dashboard_screenshot.png": "/Portfolio_Vince_DeJulius/static/media/weather_dashboard_screenshot.9af4dbe7985e6e0f63d6.png",
@@ -17,10 +17,10 @@
     "static/media/BC_UI.png": "/Portfolio_Vince_DeJulius/static/media/BC_UI.40ae7e844898e5d51c98.png",
     "index.html": "/Portfolio_Vince_DeJulius/index.html",
     "main.c59cc657.css.map": "/Portfolio_Vince_DeJulius/static/css/main.c59cc657.css.map",
-    "main.7959897d.js.map": "/Portfolio_Vince_DeJulius/static/js/main.7959897d.js.map"
+    "main.7e2f2a52.js.map": "/Portfolio_Vince_DeJulius/static/js/main.7e2f2a52.js.map"
   },
   "entrypoints": [
     "static/css/main.c59cc657.css",
-    "static/js/main.7959897d.js"
+    "static/js/main.7e2f2a52.js"
   ]
 }
