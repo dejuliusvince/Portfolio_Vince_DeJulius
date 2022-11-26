@@ -15,9 +15,7 @@ export default function Footer(){
         <MDBIcon fab icon='linkedin-in' /> Linkedin
       </MDBBtn>
 
-      <MDBBtn className='m-1' style={{ backgroundColor: '#55acee' }} href='https://twitter.com/dejuliusv'>
-        <MDBIcon fab icon='twitter' /> Twitter
-      </MDBBtn>
+      
 
     </div>
   )

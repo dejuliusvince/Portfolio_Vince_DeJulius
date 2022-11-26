@@ -2,7 +2,7 @@
   "name": "portfolio-vince-dejulius",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dejuliusvince.github.io/portfolio-vince-dejulius",
+  "homepage": "https://dejuliusvince.github.io/Portfolio_Vince_DeJulius/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
